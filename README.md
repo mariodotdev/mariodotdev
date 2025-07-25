@@ -51,5 +51,3 @@ See each repository’s `LICENSE.md` and `DISCLAIMER.md` for details.
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/mario-di-cristofano-b485b8321)
 
 ---
-
-> 🛠️ *Building something meaningful takes time. This space documents that journey.*
