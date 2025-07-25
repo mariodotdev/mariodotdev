@@ -48,8 +48,6 @@ See each repository’s `LICENSE.md` and `DISCLAIMER.md` for details.
 ## 🤝 Let's connect
 
 - 📍 Rome, Italy  
-- 🎓 Computer Science Student – Sapienza University  
-- 📬 mariodc.dev [at] gmail.com  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/mario-di-cristofano-b485b8321)
 
 ---
