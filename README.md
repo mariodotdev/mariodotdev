@@ -11,6 +11,7 @@ Welcome to my personal GitHub space — a place where I learn, build, and explor
 - ⚙️ **C / C++ / Python**  
 - 📡 **Embedded Systems, Low-Latency, Networking**
 
+---
 
 ## 🎯 Philosophy
 
