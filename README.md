@@ -39,7 +39,7 @@ Welcome to my personal GitHub space — a place where I learn, build, and explor
 
 ## 🔐 License & Disclaimer
 
-All content is created for **educational and personal purposes only**, in full respect of any contractual agreements.  
+All content is created for **educational and personal purposes only**.  
 Commercial use or redistribution is **not allowed** without permission.  
 See each repository’s `LICENSE.md` and `DISCLAIMER.md` for details.
 
