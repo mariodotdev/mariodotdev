@@ -5,24 +5,6 @@ Welcome to my personal GitHub space — a place where I learn, build, and explor
 
 ---
 
-## 🧠 Interests
-
-- 🧩 **Algorithms & Data Structures**  
-- ⚙️ **C / C++ / Python**  
-- 📡 **Embedded Systems, Low-Latency, Networking**
-
----
-
-## 🛠 Technologies I enjoy working with
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/c/c_64x64.png" width="40" alt="C" title="C"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/64px-ISO_C%2B%2B_Logo.svg.png" width="40" alt="C++" title="C++"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png" width="40" alt="Python" title="Python"/>
-</p>
-
----
-
 ## 🎯 Philosophy
 
 > *In a world where code is everywhere, I seek to rise above routine by mastering the fundamentals — driven by curiosity and the desire to build meaningful, lasting software.*
